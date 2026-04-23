@@ -123,3 +123,4 @@ streamlit run app.py
 - **make a " data " folder**
 - **add 2 folders (raw/processed)**
 - **download data from https://www.kaggle.com/datasets/canozensoy/industrial-iot-dataset-synthetic**
+- **add it to raw folder**
