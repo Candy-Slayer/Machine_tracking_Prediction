@@ -118,3 +118,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## Notes
+- **make a " data " folder**
+- **add 2 folders (raw/processed)**
+- **download data from https://www.kaggle.com/datasets/canozensoy/industrial-iot-dataset-synthetic**
