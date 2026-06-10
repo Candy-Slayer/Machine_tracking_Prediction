@@ -11,8 +11,9 @@ This project uses a classification model trained on IoT sensor data from 500,000
 ---
 
 ## Project Structure
+
+```text
 Machine_tracking_Prediction/
-│
 ├── data/
 │   ├── raw/
 │   │   └── factory_sensor.csv  
@@ -25,16 +26,17 @@ Machine_tracking_Prediction/
 │
 ├── app/
 │   └── app.py
-│                            
-├── models
+│                                     
+├── models/
 │   └── model.pkl
 │
 ├── docs/
 │   └── project_notes.md   
 │
-├── model_columns.pkl               
+├── model_columns.pkl                
 ├── requirements.txt                  
 └── README.md (you are here)
+```
 ---
 
 ## Dataset
