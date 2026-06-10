@@ -121,8 +121,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Notes
-- **add a " data " folder**
+## Notes (only read if you want to train model on your local device, or experiment on it)
+- **add "data" folder**
 - **add 2 sub-folders (raw/processed)**
 - **download data from https://www.kaggle.com/datasets/canozensoy/industrial-iot-dataset-synthetic**
-- **add it to raw folder**
+- **add it to raw folder (rename to factory_sensor)**
+- **run 01_eda file**
+- **run 02_training file**
